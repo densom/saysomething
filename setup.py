@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="densom-saysomething",
-    version="0.1",
+    version="0.2",
     packages=find_packages(),
     install_requires=[],  # Add any dependencies here
     author="Dennis Somerville",
