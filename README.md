@@ -13,7 +13,7 @@ A simple text to speech impelementation.
 ### Installing
 
 ```
-pip install saysomething
+pip install densom-saysomething
 ```
 
 ## Usage <a name = "usage"></a>
